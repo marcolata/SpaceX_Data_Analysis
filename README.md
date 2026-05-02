@@ -3,3 +3,4 @@ Data collection was obtained through SpaceX REST API calls and Web Scraping of W
 Dataset was cleaned and performed exploratory analysis using SQL to identify launch patterns.
 Folium maps was created to analyze site proximity to infrastructure and a Plotly Dash dashboard for real-time success rate filtering.
 Four classification models (Logistic Regression, SVM, KNN, and Decision Tree) were trained and tuned using GridSearchCV.
+Check SX pdf file for detailed report
