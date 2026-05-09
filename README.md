@@ -4,3 +4,10 @@ Dataset was cleaned and exploratory analysis was performed using SQL to identify
 Folium maps was created to analyze site proximity to infrastructure and a Plotly Dash dashboard for real-time success rate filtering.
 Four classification models (Logistic Regression, SVM, KNN, and Decision Tree) were trained and tuned using GridSearchCV.
 Check SX pdf file for detailed report
+
+## Author
+
+Marco Antonio Tafoya Olvera
+
+Developed as part of IBM Data Science Professional Certificate.  
+Feel free to open an issue or submit a pull request with suggestions.
